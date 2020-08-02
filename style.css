@@ -1,0 +1,14 @@
+.header{
+    background-color:red;
+display: flex;
+justify-content: space-between;
+}
+img {
+    border: 5px solid #555;
+  }
+.grid{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
